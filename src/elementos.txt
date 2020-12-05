@@ -1,0 +1,4 @@
+agua
+fuego
+tierra
+aire
